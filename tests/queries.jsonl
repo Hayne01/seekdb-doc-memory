@@ -1,0 +1,12 @@
+{"question": "上次说 MVCC 的可见性判断是怎么写的", "expect": "课程/数据库-第7讲-MVCC.md", "dir": null}
+{"question": "报销的打印费上限是多少", "expect": "事务/报销流程与材料清单.md", "dir": null}
+{"question": "混合检索的召回率基线是多少", "expect": "科研/论文阅读-混合检索基线.md", "dir": null}
+{"question": "组会上定的行动项谁负责语料切分", "expect": "科研/组会纪要-2026-10-16.md", "dir": null}
+{"question": "B+树一次查询要读几次磁盘", "expect": "课程/数据库-第3讲-B+树与索引.md", "dir": null}
+{"question": "这周的备赛安排是什么", "expect": "竞赛/备赛周计划-十月.md", "dir": null}
+{"question": "退课之后学分怎么算", "expect": "事务/选课与学分核对.md", "dir": null}
+{"question": "检索延迟压测的 P95 是多少", "expect": "科研/实验记录-检索延迟压测.md", "dir": null}
+{"question": "误差主要来自哪几个方面", "expect": "科研/实验报告-误差分析.md", "dir": null}
+{"question": "长文本应该怎么切块", "expect": "科研/论文阅读-长文本切分策略.md", "dir": "科研"}
+{"question": "数据库课程设计要交什么", "expect": "课程/数据库-课程设计要求.md", "dir": "课程"}
+{"question": "今天午饭吃什么", "expect": null, "dir": null}
